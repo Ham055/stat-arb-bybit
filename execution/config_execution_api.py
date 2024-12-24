@@ -32,8 +32,8 @@ api_key_mainnet = ""
 api_secret_mainnet = ""
 
 # TEST API
-api_key_testnet = "ENTER YOUR API KEY HERE"
-api_secret_testnet = "ENTER YOUR API SECRET HERE"
+api_key_testnet = "UgGTnMChO3Ua7FRb6j"
+api_secret_testnet = "paOGYI2BNg6myY5oHmOGNJujf9polKoBZs4H"
 
 # SELECTED API
 api_key = api_key_testnet if mode == "test" else api_key_mainnet
